@@ -1,0 +1,17 @@
+body{ text-align: center;
+    grid-column: auto;
+width: 150;
+length: 500px
+}
+.context{
+    background-color: aqua ;
+}
+img {
+    width: 500px;
+    height: 300px;
+  }
+
+
+
+
+
